@@ -1,0 +1,16 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+.venv/
+
+# Ignore Poetry virtual environments (optional)
+.tox/
+.nox/
+
+# Ignore logs
+*.log
+
+# Ignore local environment variables
+.env
